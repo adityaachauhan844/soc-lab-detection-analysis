@@ -1,3 +1,4 @@
+<img width="1920" height="1032" alt="Screenshots - File Explorer 4_29_2026 2_53_24 PM" src="https://github.com/user-attachments/assets/d11b6f72-8d06-4729-9e08-731cde92731f" />
 # SOC Lab – Threat Detection & Analysis
 
 ## 📌 Overview
