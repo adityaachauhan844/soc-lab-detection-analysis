@@ -47,7 +47,8 @@ SIEM → Wazuh Server
 
 
 ### 🔹 Wazuh Server Status
-![Wazuh VM](screenshots/wazuh-server-status.png)
+![Wazuh VM](screenshots/wazuh-server-status.png)<img width="1280" height="859" alt="Wazuh v4 14 5 OVA 1  Running  - Oracle VirtualBox 4_29_2026 2_44_58 PM" src="https://github.com/user-attachments/assets/ebc785d9-7dc7-4b1b-8384-29b315eece45" />
+
 
 ---
 
