@@ -23,8 +23,7 @@ To build a controlled lab environment for simulating and detecting cyber attacks
 
 ## 🧱 Virtual Machine Setup
 
-### 1. Kali Linux (Attacker)<img width="1920" height="1008" alt="Kali Linux  Running  - Oracle VirtualBox 4_29_2026 2_51_40 PM" src="https://github.com/user-attachments/assets/5bd5d25d-9354-4104-9f10-f6bc95f40e34" />
-
+### 1. Kali Linux (Attacker)
 - Installed Kali Linux on VirtualBox  
 - Allocated 2GB RAM  
 - Used for simulating attacks  
