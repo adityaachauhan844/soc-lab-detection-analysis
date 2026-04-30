@@ -50,6 +50,10 @@ SIEM → Wazuh Server
 ![Wazuh VM](screenshots/wazuh-server-status.png)<img width="1280" height="859" alt="Wazuh v4 14 5 OVA 1  Running  - Oracle VirtualBox 4_29_2026 2_44_58 PM" src="https://github.com/user-attachments/assets/ebc785d9-7dc7-4b1b-8384-29b315eece45" />
 
 
+### 🔍 Detected Brute-Force Attack (Multiple Failed SSH Logins)
+<img width="1920" height="1032" alt="Oracle VirtualBox Manager 4_29_2026 2_52_45 PM" src="https://github.com/user-attachments/assets/f9a73e5f-c86c-4915-908c-8f424adf5ba4" />
+
+
 ---
 
 ## 📄 Incident Report (Summary)
