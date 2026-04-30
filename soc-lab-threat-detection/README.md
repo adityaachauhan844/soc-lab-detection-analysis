@@ -1,4 +1,3 @@
-<img width="1920" height="1032" alt="Screenshots - File Explorer 4_29_2026 2_53_24 PM" src="https://github.com/user-attachments/assets/d11b6f72-8d06-4729-9e08-731cde92731f" />
 # SOC Lab – Threat Detection & Analysis
 
 ## 📌 Overview
@@ -40,10 +39,12 @@ SIEM → Wazuh Server
 
 
 ### 🔹 Wazuh Dashboard Alerts
-![Wazuh Dashboard](screenshots/wazuh-alert-dashboard.png)
+![Wazuh Dashboard](screenshots/wazuh-alert-dashboard.png)<img width="1920" height="1032" alt="Screenshots - File Explorer 4_29_2026 2_53_24 PM" src="https://github.com/user-attachments/assets/010b6b8c-47a0-430c-9b1c-56b815e28fb9" />
+
 
 ### 🔹 SSH Failed Login Logs
-![Logs](screenshots/ssh-failed-log.png)
+![Logs](screenshots/ssh-failed-log.png)<img width="1920" height="1032" alt="Wazuh — Mozilla Firefox 4_29_2026 3_07_24 PM" src="https://github.com/user-attachments/assets/44fa41df-620f-4b1e-a7e2-d193e3014328" />
+
 
 ### 🔹 Wazuh Server Status
 ![Wazuh VM](screenshots/wazuh-server-status.png)
