@@ -35,7 +35,8 @@ SIEM → Wazuh Server
 ## 📸 Screenshots
 
 ### 🔹 Attack from Kali Linux
-![Kali Attack](screenshots/kali-bruteforce-attack.png)
+![Kali Attack](screenshots/kali-bruteforce-attack.png)<img width="1920" height="1008" alt="Kali Linux  Running  - Oracle VirtualBox 4_29_2026 2_51_40 PM" src="https://github.com/user-attachments/assets/9d711bb9-54af-442c-b79d-6b0ea9a8d67f" />
+
 
 ### 🔹 Wazuh Dashboard Alerts
 ![Wazuh Dashboard](screenshots/wazuh-alert-dashboard.png)
